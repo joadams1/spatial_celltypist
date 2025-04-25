@@ -1,5 +1,5 @@
 # Using CellTypist Models on Spatial Data
-*Created by Jo Adams with code from Andrew Moorman from the Single-cell Analytics Innovation Labratory (SAIL) at MSKCC* 
+*Created by Jo Adams from the Single-cell Analytics Innovation Labratory (SAIL) at MSKCC with code from Andrew Moorman and Emma Chen* 
 
 This repository contains examples on how to train and run CellTypist Models on 10X Xenium Spatial Transcriptomics data.
 
